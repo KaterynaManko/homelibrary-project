@@ -1,0 +1,26 @@
+[
+    {
+     "bookname": "The Da Vinci Code",
+     "genre": "detective",
+     "status": "in stock",
+     "author_id": 1
+    },
+    {
+     "bookname": "Notre Dame de Paris",
+     "genre": "novel",
+     "status": "in rent",
+     "author_id": 2
+    },
+    {
+     "bookname": "The Picture of Dorian Gray",
+     "genre": "novel",
+     "status": "in stock",
+     "author_id": 3
+    },
+    {
+    "bookname": "Les Contemplations",
+    "genre": "lyrics",
+    "status": "in rent",
+    "author_id": 2
+    }
+   ]

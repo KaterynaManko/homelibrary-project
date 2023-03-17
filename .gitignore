@@ -1,0 +1,6 @@
+/__pycache__
+/.flaskenv
+/microblog.db
+/app/__pycache__
+/migrations/__pycache__
+/migrations/versions/__pycache__
